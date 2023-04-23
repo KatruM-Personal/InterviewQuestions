@@ -1,5 +1,5 @@
 # InterviewQuestions
-Used .nET 7.0 console application and nunit project to write test cases.
+Used .NET 7.0 console application and nunit project to write test cases.
 If we want to run multiplethreads we need to use below code instead of Line number 23: service.RespondToTick("KMSLTD", (decimal)78);
 Random random = new Random();
             List<Thread> threads = new List<Thread>();
